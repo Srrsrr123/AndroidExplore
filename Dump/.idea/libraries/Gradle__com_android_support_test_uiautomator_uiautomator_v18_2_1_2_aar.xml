@@ -1,0 +1,64 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test.uiautomator:uiautomator-v18:2.1.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AUT/gradle-6.5/caches/transforms-2/files-2.1/edd4a06431b7a710f76a9fe12bf90bd2/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AUT/gradle-6.5/caches/transforms-2/files-2.1/edd4a06431b7a710f76a9fe12bf90bd2/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$PROJECT_DIR$/../AUT/gradle-6.5/caches/transforms-2/files-2.1/edd4a06431b7a710f76a9fe12bf90bd2/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../AUT/gradle-6.5/caches/transforms-2/files-2.1/736ed406047c67550d33fc09302af24f/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AUT/gradle-6.5/caches/transforms-2/files-2.1/736ed406047c67550d33fc09302af24f/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$PROJECT_DIR$/../AUT/gradle-6.5/caches/transforms-2/files-2.1/736ed406047c67550d33fc09302af24f/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../AUT/gradle-6.5/caches/transforms-2/files-2.1/ebebfb6c68f55a34296929b71c94d8d2/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11fe8352e562727e471da7aa76cf26df/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$PROJECT_DIR$/../../SDK/android-sdk-windows/caches/transforms-2/files-2.1/0a3826c5f30cde950d8cc9f08d048cce/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../SDK/android-sdk-windows/caches/transforms-2/files-2.1/0a3826c5f30cde950d8cc9f08d048cce/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../SDK/android-sdk-windows/caches/transforms-2/files-2.1/0a3826c5f30cde950d8cc9f08d048cce/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa233fc0d7b4741676fdc92f03d8afc1/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa233fc0d7b4741676fdc92f03d8afc1/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa233fc0d7b4741676fdc92f03d8afc1/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872c8af7449ecff62180c6f8555a9522/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872c8af7449ecff62180c6f8555a9522/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/872c8af7449ecff62180c6f8555a9522/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92c1f41b4f1737174d27102e70f54e9a/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92c1f41b4f1737174d27102e70f54e9a/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92c1f41b4f1737174d27102e70f54e9a/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d10cc6bd2933f5e162286a2291908a26/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d10cc6bd2933f5e162286a2291908a26/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d10cc6bd2933f5e162286a2291908a26/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/336f9288ac0399214f53891cfbae82b8/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/336f9288ac0399214f53891cfbae82b8/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/336f9288ac0399214f53891cfbae82b8/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9fc95b8d2e6410c1e41c4e580d350aa3/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9fc95b8d2e6410c1e41c4e580d350aa3/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9fc95b8d2e6410c1e41c4e580d350aa3/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2053f714763ab9a530dc228731e0670/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2053f714763ab9a530dc228731e0670/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2053f714763ab9a530dc228731e0670/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3eab0422de2ebda32e1bef26b1114f11/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3eab0422de2ebda32e1bef26b1114f11/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3eab0422de2ebda32e1bef26b1114f11/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23212ae208295f967e5770c24ab9351e/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23212ae208295f967e5770c24ab9351e/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23212ae208295f967e5770c24ab9351e/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc4b39b007e7360166c0c4fb9ef6d984/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc4b39b007e7360166c0c4fb9ef6d984/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc4b39b007e7360166c0c4fb9ef6d984/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ccdf1d42fab55ca70d740d69236732d/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ccdf1d42fab55ca70d740d69236732d/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ccdf1d42fab55ca70d740d69236732d/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e626a7cbf36d791a047a2b8dfdda8246/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e626a7cbf36d791a047a2b8dfdda8246/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e626a7cbf36d791a047a2b8dfdda8246/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b613ff5fdc507d017e8a2b59ba904466/jetified-uiautomator-v18-2.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b613ff5fdc507d017e8a2b59ba904466/jetified-uiautomator-v18-2.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b613ff5fdc507d017e8a2b59ba904466/jetified-uiautomator-v18-2.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../SDK/android-sdk-windows/caches/modules-2/files-2.1/com.android.support.test.uiautomator/uiautomator-v18/2.1.2/7f6f672abd6c05fbab375ea8cb02c022a62d8cac/uiautomator-v18-2.1.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test.uiautomator/uiautomator-v18/2.1.2/7f6f672abd6c05fbab375ea8cb02c022a62d8cac/uiautomator-v18-2.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../SDK/android-sdk-windows/caches/modules-2/files-2.1/com.android.support.test.uiautomator/uiautomator-v18/2.1.2/4b23df42c7665e24ffca8168f41e03ea39715582/uiautomator-v18-2.1.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test.uiautomator/uiautomator-v18/2.1.2/4b23df42c7665e24ffca8168f41e03ea39715582/uiautomator-v18-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

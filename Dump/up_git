@@ -1,0 +1,12 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Yinen/APIExcute2-master.git
+git push -u origin main
+
+出现10054错误
+git config --global http.sslVerify "false"
+
+
+覆盖非官方
