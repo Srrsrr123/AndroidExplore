@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Passwort-Hertsteller</string>
+    <string name="english_letters">Nur Englisch</string>
+    <string name="new_pass">Neu Passwort</string>
+    <string name="no_symbols">Keine Symbole</string>
+    <string name="sample_text">Beispieltext</string>
+</resources>

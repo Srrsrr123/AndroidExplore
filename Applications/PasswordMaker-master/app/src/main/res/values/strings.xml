@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Password Maker</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="new_pass">New Password</string>
+    <string name="no_symbols">No Symbols</string>
+    <string name="english_letters">English Letters</string>
+    <string name="options">Options</string>
+    <string name="english_words">English Words</string>
+    <string name="german_words">German Words</string>
+    <string name="no_numbers">No Numbers</string>
+    <string name="min_password_length">  Min Password Length</string>
+    <string name="max_password_length">    Max Password Length</string>
+</resources>

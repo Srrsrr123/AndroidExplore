@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="org.secuso.privacyfriendlysketching">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:name=".PFSketchingApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.SplashActivity"
+            android:exported="true"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.TutorialActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="org.secuso.privacyfriendlysketching.activities.GalleryActivity" />
+        </activity>
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.AboutActivity"
+            android:label="@string/about"
+            android:parentActivityName="org.secuso.privacyfriendlysketching.activities.GalleryActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="org.secuso.privacyfriendlysketching.activities.GalleryActivity" />
+        </activity>
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.HelpActivity"
+            android:label="@string/help"
+            android:parentActivityName="org.secuso.privacyfriendlysketching.activities.GalleryActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="org.secuso.privacyfriendlysketching.activities.GalleryActivity" />
+        </activity>
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="org.secuso.privacyfriendlysketching.activities.GalleryActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="org.secuso.privacyfriendlysketching.activities.GalleryActivity" />
+        </activity>
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.SketchActivity"
+            android:label="@string/title_activity_sketch"
+            android:parentActivityName="org.secuso.privacyfriendlysketching.activities.GalleryActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="org.secuso.privacyfriendlysketching.activities.GalleryActivity" />
+        </activity>
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.GalleryActivity"
+            android:label="@string/title_gallery_sketch"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="org.secuso.privacyfriendlysketching.activities.KeyGenActivity"
+            android:label="@string/title_activity_game"
+            android:noHistory="true"
+            android:parentActivityName="org.secuso.privacyfriendlysketching.activities.GalleryActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="org.secuso.privacyfriendlysketching.activities.GalleryActivity" />
+        </activity>
+
+        <service
+            android:name=".backup.PFABackupService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":backup"
+            tools:ignore="ExportedService">
+            <intent-filter>
+                <action android:name="org.secuso.privacyfriendlybackup.api.pfa.PFAAuthService" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="org.secuso.privacyfriendlysketching.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/filepaths" />
+        </provider>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            tools:node="remove" />
+    </application>
+
+
+</manifest>
