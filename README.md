@@ -11,7 +11,7 @@ Jacoco 0.8.10
 ```
 ### Preparing the runtime environment
 #### Install Android Studio
-We run project "Dump" and Android apps in Android Studio. More details about installation steps can be found at: https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-install-android-studio
+We run project "Dump" and applications in Android Studio. More details about installation steps can be found at: https://developer.android.google.cn/codelabs/basic-android-kotlin-compose-install-android-studio
 #### Install PyCharm
 We run project "Q_Learning" in PyCharm. More details about installation steps can be found at: https://www.jetbrains.com/help/pycharm/installation-guide.html
 #### Install Android Emulator
