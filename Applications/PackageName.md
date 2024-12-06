@@ -1,0 +1,33 @@
+## Package Name
+|  Application Name   | Package Name  |
+|  ----  | ----  |
+| silentsms | com.telefoncek.silentsms.detector |
+| alarm  |  comjoshsibayan.github.alarm |
+| notepad | com.tomaszmarzeion.notepad |
+| wifikeyshare | be.brunoparmentier.wifikeyshare.debug |
+| cardlocker | protect.card_locker |
+| Text | com.zhihaofans.texttext |
+| budgetwatch | com.example.asd |
+| smss | com.example.helloworld |
+| andotp | org.shadowice.flocke.andotp.dev |
+| bookymcbookface | com.quaap.bookymcbookface |
+| passwordMaker | com.jeremy.passwordmaker |
+| anycut | net.thebrennt.anycut |
+| account | com.hanyuzhou.accountingapp |
+| Countday | com.agmcs.countdown |
+| soundboard | de.meonwax.soundboard |
+| rubbish | com.example.rubbishrecog |
+| neurolab | io.neurolab |
+| weather | com.example.weather |
+| Word | com.talengu.wordwarrior |
+| multismssender | com.hectorone.multismssender |
+| tasks | org.dmfs.tasks |
+| solitaire | de.tobiasbielefeld.solitaire |
+| Sketches | org.secuso.privacyfriendlysketching |
+| Calendar | com.xinyang.calendarview |
+| tally | com.hui.tally |
+| gramophone | com.kabouzeid.gramophone.debug |
+| simplenote | com.example.notes |
+| fillup | com.example.ben.tezfillup |
+| Keepassdroid | com.android.keepass |
+| uhabits | org.isoron.uhabits |
